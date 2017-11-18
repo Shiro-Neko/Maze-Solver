@@ -25,7 +25,6 @@ public class Graph {
         this.graph = new ArrayList<>();
     }
     
-    
     /**
      * Add a vertex in graph
      * @param x Coordinate x of the vertex in maze
